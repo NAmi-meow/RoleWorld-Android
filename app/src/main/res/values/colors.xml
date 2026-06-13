@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BACKGROUND -->
+    <color name="window_background">@color/material_dark</color>
+    <color name="window_background_transparent">@color/material_dark_transparent</color>
+    <color name="surface_background">@color/material_dark_gray</color>
+
+    <!-- MAIN UI -->
+    <color name="ui_primary">#AA0068</color>
+    <color name="ui_primary_mid">#9300AA</color>
+    <color name="ui_primary_variant">#37007F</color>
+
+    <!-- TEXT -->
+    <color name="text_primary">@color/material_white</color>
+    <color name="text_secondary">@color/material_gray</color>
+    <color name="hint_primary">@color/material_light_gray</color>
+
+    <!-- UTIL -->
+    <color name="error">@color/red</color>
+    <color name="success">@color/green</color>
+
+    <!-- MATERIAL -->
+    <color name="material_dark_gray">#212223</color>
+    <color name="material_dark_gray_variant">#313233</color>
+    <color name="material_dark">#121212</color>
+    <color name="material_dark_transparent">#99121212</color>
+    <color name="material_white">#EEEEEE</color>
+    <color name="material_light_gray">#CCCCCC</color>
+    <color name="material_gray">#AAAAAA</color>
+
+    <!-- OTHER -->
+    <color name="transparent">#00000000</color>
+    <color name="red">#E40934</color>
+    <color name="green">#28D71B</color>
+</resources>
