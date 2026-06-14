@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.namimeow.roleworld
+=======
+package com.nakaharadev.roleworld
+>>>>>>> master
 
 import org.junit.Test
 
